@@ -10,6 +10,13 @@ const Projects = () => {
     };
     const projectList = [
         {
+        name: "Collaborative Editor",
+        sourceCode: "https://github.com/rohits2404/Collaborative-Editor.git",
+        LiveDemo: "https://docs-mu-six.vercel.app/",
+        img1: "projects-img/docs.png",
+        isLiveDemoDisabled: false
+        },
+        {
         name: "Snapgram",
         sourceCode: "https://github.com/rohits2404/Snapgram.git",
         LiveDemo: "https://snapgram-pi-inky.vercel.app/",
