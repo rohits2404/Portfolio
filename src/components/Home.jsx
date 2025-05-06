@@ -20,7 +20,7 @@ const Home = () => {
                                 </p>
                                 <div className="d-flex">
                                 <Link
-                                    to="https://drive.google.com/uc?export=download&id=1HWl7_dvO7MuOzngbU95O62QPzDbbffpK"
+                                    to="/"
                                     className=" border-0 btns d-flex justify-content-around align-items-center"
                                     style={{
                                     backgroundColor: "#cacccb",
