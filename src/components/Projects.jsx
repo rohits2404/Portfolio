@@ -10,6 +10,13 @@ const Projects = () => {
     };
     const projectList = [
         {
+        name: "AI_MOCK_INTERVIEW",
+        sourceCode: "https://github.com/rohits2404/AI_MOCK_INTERVIEW.git",
+        LiveDemo: "https://prepwise-rho.vercel.app/",
+        img1: "",
+        isLiveDemoDisabled: false
+        },
+        {
         name: "Collaborative Editor",
         sourceCode: "https://github.com/rohits2404/Collaborative-Editor.git",
         LiveDemo: "https://docs-mu-six.vercel.app/",
