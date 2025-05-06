@@ -13,7 +13,7 @@ const Projects = () => {
         name: "AI_MOCK_INTERVIEW",
         sourceCode: "https://github.com/rohits2404/AI_MOCK_INTERVIEW.git",
         LiveDemo: "https://prepwise-rho.vercel.app/",
-        img1: "",
+        img1: "projects-img/interview.png",
         isLiveDemoDisabled: false
         },
         {
