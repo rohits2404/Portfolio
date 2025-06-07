@@ -15,6 +15,7 @@ const Projects = () => {
         LiveDemo: "https://converso-smoky.vercel.app/",
         img1: "projects-img/saas.png",
         isLiveDemoDisabled: false
+        },
         {
         name: "AI_MOCK_INTERVIEW",
         sourceCode: "https://github.com/rohits2404/AI_MOCK_INTERVIEW.git",
