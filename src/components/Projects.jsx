@@ -19,7 +19,7 @@ const Projects = () => {
         {
         name: "Imaginify",
         sourceCode: "https://github.com/rohits2404/Imaginify.git",
-        LiveDemo: "https://visiq.netlify.app",
+        LiveDemo: "https://visiq-ai.vercel.app",
         img1: "projects-img/saas-1.png",
         isLiveDemoDisabled: false
         },
