@@ -58,7 +58,7 @@ const Resume = () => {
                                 <AiFillGithub className="zoom-on-hover" />
                                 </a>
                                 <a
-                                href="https://www.linkedin.com/in/rohit-sharma-161988258/"
+                                href="https://www.linkedin.com/in/dev-with-rohit"
                                 target="/blank"
                                 className="text-white text-decoration-none mx-2"
                                 >
