@@ -10,6 +10,20 @@ const Projects = () => {
     };
     const projectList = [
         {
+        name: "Excel Viz",
+        sourceCode: "https://github.com/rohits2404/Excel-Analyzer.git",
+        LiveDemo: "https://excel-analyzer-psi.vercel.app",
+        img1: "projects-img/excel.png",
+        isLiveDemoDisabled: false
+        },
+        {
+        name: "Imaginify",
+        sourceCode: "https://github.com/rohits2404/Imaginify.git",
+        LiveDemo: "https://visiq.netlify.app",
+        img1: "projects-img/saas-1.png",
+        isLiveDemoDisabled: false
+        },
+        {
         name: "Converso - LMS SAAS Platform",
         sourceCode: "https://github.com/rohits2404/saas-app.git",
         LiveDemo: "https://converso-smoky.vercel.app/",
